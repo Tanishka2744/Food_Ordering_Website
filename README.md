@@ -1,6 +1,6 @@
-# React Food Delivery Website
+# React Food Ordering Website
 
-This is a modern and interactive **Food Delivery Website** built using React.js. Users can browse food items, add them to a cart, adjust quantities, and view total prices dynamically.
+This is a modern and interactive **Food Ordering Website** built using React.js. Users can browse food items, add them to a cart, adjust quantities, and view total prices dynamically.
 
 ## Features
 
@@ -10,6 +10,7 @@ This is a modern and interactive **Food Delivery Website** built using React.js.
 - **Responsive Design:** Works smoothly on desktop, tablet, and mobile screens.  
 - **Interactive Food Cards:** Each food item is displayed as a card with image, name, description, price, and action buttons.  
 - **React Component-Based Structure:** Clean, reusable components for scalability and maintenance.
+- 
 ## Technologies Used
 
 - React.js (Functional Components, Hooks)  
